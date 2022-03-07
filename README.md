@@ -1,4 +1,4 @@
-# risky-business
+# Risky Business
 Classification in Machine Learning
 
 # Resampling 
