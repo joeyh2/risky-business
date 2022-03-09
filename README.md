@@ -4,13 +4,13 @@ Classification in Machine Learning
 # Resampling 
 
 ### Which model had the best balanced accuracy score?
-Naive Random Oversampling had the best balanced accuracy score at 0.9936781215845847.
+Naive Random Oversampling, Smote Oversampling, Combination (over and under) tied at 0.9934649587814939
 
 ### Which model had the best recall score?
-All Models tied at 0.99
+All models tied at 0.99
 
-### Which model had the best geometric mean score?
-All models have 0.99 geo score except linear regression at 0.95.
+### Which model had the best geometric mean score? 
+All models tied at 0.99
 
 -----------------------------------------------------------------
 
